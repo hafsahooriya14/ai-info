@@ -1,0 +1,247 @@
+.row {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+.row img {
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.row p {
+    margin-top: 0px;
+}
+p {font-size: 18px;}
+.roww {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+.roww img {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.roww p {
+    margin-top: 0px;
+}
+h1 {text-align: center;}
+.his {
+    display: flex;
+    gap: 30px;
+}
+.history {
+     display: flex;
+    gap:300px;
+    align-items: flex-start;
+}
+.history img {
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.hs {
+    display: flex;
+    gap: 30px;
+}
+.hi {
+    display: flex;
+    gap: 30px;
+}
+.is {
+    display: flex;
+    gap: 30px;
+}
+ol {font-size: large;}
+.tools {
+    display: flex;
+    gap: 160px;
+}
+.gall {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 60px;
+    width: 990px;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+.gall img {
+    width: 110px;
+    height: 100px;
+    object-fit: cover;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 0px;
+}
+.tools ol {
+    flex-shrink: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+            white-space: nowrap;
+            color: red; 
+            text-decoration: none;
+            display: inline-block;
+            padding: 10px 9px;
+            margin: 0.5px;
+            border: 2px solid rgb(249, 78, 78);
+            border-radius: 8px;
+            background-color: rgb(224, 230, 234);
+    }
+body {
+    background-color: rgb(229, 210, 184);
+}
+h1 {
+    color: rgb(4, 125, 125);
+    text-decoration: underline dotted;
+}
+h2 {
+    color: rgb(92, 21, 21);
+    text-decoration: underline dashed;
+    margin-bottom: 6px;
+}
+h3 {
+    color: rgb(55, 12, 95);
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+.adv {
+    display: flex;
+    gap: 30px;
+}
+.av {
+    display: flex;
+    gap: 30px;
+}
+.ad {
+    display: flex;
+    gap: 30px;
+}
+.dav {
+    display: flex;
+    gap: 30px;
+}
+.dv {
+    display: flex;
+    gap: 30px;
+}
+.dvi {
+    display: flex;
+    gap: 30px;
+}
+.lead {
+    margin-bottom: 0px;
+}
+.lead + ul {
+    margin-top: 3px;
+}
+.rw {
+    display: flex;
+    gap: 150px;
+    align-items: flex-start;
+}
+.rw img {
+    width: 120px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.rww {
+    display: flex;
+    gap: 150px;
+    align-items: flex-start;
+}
+.rww img {
+    width: 185px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.rwwo {
+    display: flex;
+    gap: 150px;
+    align-items: flex-start;
+}
+.rwwo img {
+    width: 155px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.rwow {
+    display: flex;
+    gap: 150px;
+    align-items: flex-start;
+}
+.rwow img {
+    width: 220px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.dly {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+    gap: 30px;
+}
+.dy {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 30px;
+}
+.dly img {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.dly p, .dy p {
+    max-width: 400px;
+}
+.dy img {
+    width: 110px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.pair {
+    display: flex;
+    gap: 60px;
+    align-items: flex-start;
+}
+.col {
+    flex: 1;
+}
+h3 + p,
+h3 + div p {
+    margin-top: 1px;
+}
+h3 + ul,
+h3 + div ul {
+    margin-top: 1px;
+}
+ul {
+    font-size: 17px;
+}
+.fr {
+    display: flex;
+    gap: 180px;
+    align-items: flex-start;
+}
+.hhh {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+    gap: 30px;
+}
+.hhh p {
+    max-width: 400px;
+}
+.coll {
+    flex: 1;
+    background-color: rgb(243, 212, 169);
+    border: 2px solid saddlebrown;
+    border-radius: 15px;
+    padding: 15px 20px;
+    margin: 3px;
+}
